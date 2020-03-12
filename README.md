@@ -1,5 +1,5 @@
 # Clubdocodigo
-Destinado a alunos do BSI IFC
+Destinado a alunos dos Cursos de Informática do IFC
 
 Bem vindos ao Club do código ❤
 
