@@ -1,15 +1,31 @@
 # Clubdocodigo
 Destinado a alunos do BSI IFC
 
-Bem vindos ao Club do código ( provisório até surgir algo melhor rsrsrs)
+Bem vindos ao Club do código ❤ 
 
-Com o intuito de estimular aos alunos do BSI17, foi fundado este club, que tem como intuito lançar um desafio semanal ou bi-semanal 
-para que os alunos dispostos a resolvelos formem 1 ou 2 grupos para a solução, os grupos devem ser divididos em subgrupos, onde
-cada sub-grupo terá uma terefa, como por exemplo estruturar o algoritimo, outro para codificação e outro para testes, no final será 
-gerado um relatório para que possa ser gerado um artigo ou não a critério dos alunos.
-Tambem ao final do desafio os grupos e alunos se reunem para troca de experiencia e aprender uns com os outros.
+Com o intuito de estimular aos alunos do IF Campus Campboriú a aprender programação e colocar em pratica o que é visto em sala de aula, surgiu esse projeto.
 
-Dentro desta mesma pasta existe um arquivo chamado temas, coloque lá algum probrema que voce acha interessante e por votação 
-escolheremos nosso primeiro tema do desafio. 
+A ideia é que os alunos se reunam durante os sabados, para desenvolver a aplicação proposta pelo desafio. 
 
+Todos os desavios visam desenvolver um produto de software que será usado pelos alunos no dia-a-dia da vida academica.
+
+Voce tem vontade de apreder a desenvolver e dar um up na sua carreira, mas voce sempre empaca em alguma dificuldade e desanima? Ou nunca tem uma ideia legal para desenvolver? Gostaria de se integrar mais na comunidade? 
+
+o Club do Código  tem a intensão de ser tudo isso e muito mais 👍
+
+Porque participar?
+
+    Vai dar um up em suas coding skills 💪;
+    Otimo para aprender novas tecnologias 🆕;
+    Aumentar seu Portfolio no Github 📁;
+    Deixar um legado ( um pedacinho seu no IFC) 👌;
+
+
+Cada projeto possui as seguintes caracteristicas:
+
+    Um descrição clara do problema;
+    Uma lista de features que devem ser desenvolvidas
+    
+
+Os projetos estarão no repositorio Projects
 
