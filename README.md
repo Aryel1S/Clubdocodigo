@@ -27,6 +27,8 @@ Cada projeto possui as seguintes características:
     Uma lista de features que devem ser desenvolvidas
     
 
-Os projetos estarão no repositório Projects
+Os projetos estarão no repositório Projects 
+
+[Semana 00](/Projects/Semana00/Semana00.md) 
 
 
